@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Moses Chukwuma | Cloud DevOps Engineer
 
-Welcome to my GitHub! I specialize in building automated cloud infrastructure and DevOps solutions.
+Welcome to my GitHub! I specialize in building automated cloud infrastructure and DevOps solutions. Passionate about Infrastructure as Code, containerization, and cloud automation.
+
+## 🔭 Currently Working On
+
+- 🚀 Building automated DevOps environment setup scripts for Windows
+- 📚 Learning AWS Solutions Architecture & Advanced Terraform modules
+- 🔧 Contributing to open-source DevOps tools and automation
+- 🎯 Preparing for AWS Certified Solutions Architect - Associate exam
 
 ## 🚀 Featured Projects
 
@@ -21,31 +28,6 @@ A complete, automated setup script for installing and configuring a professional
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-**Currently Learning:**
-- Kubernetes
-- GitHub Actions CI/CD
-- AWS Services (EC2, S3, RDS, VPC)
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chuksholymoses&show_icons=true&theme=radical)
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moseschukwuma-cloud-devops/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Chuksmosez)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chuksholymoses)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chuksyb27@gmail.com)
-
-## 🔧 Technologies & Tools
-
-**Cloud & DevOps:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -59,6 +41,23 @@ A complete, automated setup script for installing and configuring a professional
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📊 GitHub Stats & Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chuksholymoses&theme=radical&no-frame=true&margin-w=15)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chuksholymoses&show_icons=true&theme=radical&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chuksholymoses&layout=compact&theme=radical)
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moseschukwuma-cloud-devops/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Chuksmosez)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chuksholymoses)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chuksyb27@gmail.com)
+
 ---
 
-⭐ **Star my repositories if you find them useful!**
+⭐ **Star my repositories if you find them useful!**  
+📧 **Feel free to reach out for collaboration or questions!**
